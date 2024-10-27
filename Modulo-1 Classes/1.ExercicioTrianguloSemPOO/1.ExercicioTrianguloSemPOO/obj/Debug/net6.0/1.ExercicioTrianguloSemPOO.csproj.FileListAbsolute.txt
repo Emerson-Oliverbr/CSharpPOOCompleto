@@ -1,0 +1,15 @@
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloSemPOO\1.ExercicioTrianguloSemPOO\bin\Debug\net6.0\1.ExercicioTrianguloSemPOO.exe
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloSemPOO\1.ExercicioTrianguloSemPOO\bin\Debug\net6.0\1.ExercicioTrianguloSemPOO.deps.json
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloSemPOO\1.ExercicioTrianguloSemPOO\bin\Debug\net6.0\1.ExercicioTrianguloSemPOO.runtimeconfig.json
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloSemPOO\1.ExercicioTrianguloSemPOO\bin\Debug\net6.0\1.ExercicioTrianguloSemPOO.dll
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloSemPOO\1.ExercicioTrianguloSemPOO\bin\Debug\net6.0\1.ExercicioTrianguloSemPOO.pdb
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloSemPOO\1.ExercicioTrianguloSemPOO\obj\Debug\net6.0\1.ExercicioTrianguloSemPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloSemPOO\1.ExercicioTrianguloSemPOO\obj\Debug\net6.0\1.ExercicioTrianguloSemPOO.AssemblyInfoInputs.cache
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloSemPOO\1.ExercicioTrianguloSemPOO\obj\Debug\net6.0\1.ExercicioTrianguloSemPOO.AssemblyInfo.cs
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloSemPOO\1.ExercicioTrianguloSemPOO\obj\Debug\net6.0\1.ExercicioTrianguloSemPOO.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloSemPOO\1.ExercicioTrianguloSemPOO\obj\Debug\net6.0\1.ExercicioTrianguloSemPOO.sourcelink.json
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloSemPOO\1.ExercicioTrianguloSemPOO\obj\Debug\net6.0\1.ExercicioTrianguloSemPOO.dll
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloSemPOO\1.ExercicioTrianguloSemPOO\obj\Debug\net6.0\refint\1.ExercicioTrianguloSemPOO.dll
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloSemPOO\1.ExercicioTrianguloSemPOO\obj\Debug\net6.0\1.ExercicioTrianguloSemPOO.pdb
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloSemPOO\1.ExercicioTrianguloSemPOO\obj\Debug\net6.0\1.ExercicioTrianguloSemPOO.genruntimeconfig.cache
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloSemPOO\1.ExercicioTrianguloSemPOO\obj\Debug\net6.0\ref\1.ExercicioTrianguloSemPOO.dll
