@@ -1,0 +1,15 @@
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloComPOO\1.ExercicioTrianguloComPOO\bin\Debug\net6.0\1.ExercicioTrianguloComPOO.exe
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloComPOO\1.ExercicioTrianguloComPOO\bin\Debug\net6.0\1.ExercicioTrianguloComPOO.deps.json
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloComPOO\1.ExercicioTrianguloComPOO\bin\Debug\net6.0\1.ExercicioTrianguloComPOO.runtimeconfig.json
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloComPOO\1.ExercicioTrianguloComPOO\bin\Debug\net6.0\1.ExercicioTrianguloComPOO.dll
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloComPOO\1.ExercicioTrianguloComPOO\bin\Debug\net6.0\1.ExercicioTrianguloComPOO.pdb
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloComPOO\1.ExercicioTrianguloComPOO\obj\Debug\net6.0\1.ExercicioTrianguloComPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloComPOO\1.ExercicioTrianguloComPOO\obj\Debug\net6.0\1.ExercicioTrianguloComPOO.AssemblyInfoInputs.cache
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloComPOO\1.ExercicioTrianguloComPOO\obj\Debug\net6.0\1.ExercicioTrianguloComPOO.AssemblyInfo.cs
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloComPOO\1.ExercicioTrianguloComPOO\obj\Debug\net6.0\1.ExercicioTrianguloComPOO.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloComPOO\1.ExercicioTrianguloComPOO\obj\Debug\net6.0\1.ExercicioTrianguloComPOO.sourcelink.json
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloComPOO\1.ExercicioTrianguloComPOO\obj\Debug\net6.0\1.ExercicioTrianguloComPOO.dll
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloComPOO\1.ExercicioTrianguloComPOO\obj\Debug\net6.0\refint\1.ExercicioTrianguloComPOO.dll
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloComPOO\1.ExercicioTrianguloComPOO\obj\Debug\net6.0\1.ExercicioTrianguloComPOO.pdb
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloComPOO\1.ExercicioTrianguloComPOO\obj\Debug\net6.0\1.ExercicioTrianguloComPOO.genruntimeconfig.cache
+C:\Projetos\CSharpPOOCompleto\Modulo-1 Classes\1.ExercicioTrianguloComPOO\1.ExercicioTrianguloComPOO\obj\Debug\net6.0\ref\1.ExercicioTrianguloComPOO.dll

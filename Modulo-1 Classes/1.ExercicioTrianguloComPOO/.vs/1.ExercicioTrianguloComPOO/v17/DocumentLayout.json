@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\CSharpPOOCompleto\\Modulo-1 Classes\\1.ExercicioTrianguloComPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4371B76D-43FF-487B-A8AC-7DFD193C0B21}|1.ExercicioTrianguloComPOO\\1.ExercicioTrianguloComPOO.csproj|c:\\projetos\\csharppoocompleto\\modulo-1 classes\\1.exerciciotriangulocompoo\\1.exerciciotriangulocompoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4371B76D-43FF-487B-A8AC-7DFD193C0B21}|1.ExercicioTrianguloComPOO\\1.ExercicioTrianguloComPOO.csproj|solutionrelative:1.exerciciotriangulocompoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4371B76D-43FF-487B-A8AC-7DFD193C0B21}|1.ExercicioTrianguloComPOO\\1.ExercicioTrianguloComPOO.csproj|c:\\projetos\\csharppoocompleto\\modulo-1 classes\\1.exerciciotriangulocompoo\\1.exerciciotriangulocompoo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4371B76D-43FF-487B-A8AC-7DFD193C0B21}|1.ExercicioTrianguloComPOO\\1.ExercicioTrianguloComPOO.csproj|solutionrelative:1.exerciciotriangulocompoo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\CSharpPOOCompleto\\Modulo-1 Classes\\1.ExercicioTrianguloComPOO\\1.ExercicioTrianguloComPOO\\Program.cs",
+              "RelativeDocumentMoniker": "1.ExercicioTrianguloComPOO\\Program.cs",
+              "ToolTip": "C:\\Projetos\\CSharpPOOCompleto\\Modulo-1 Classes\\1.ExercicioTrianguloComPOO\\1.ExercicioTrianguloComPOO\\Program.cs",
+              "RelativeToolTip": "1.ExercicioTrianguloComPOO\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:19:01.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Projetos\\CSharpPOOCompleto\\Modulo-1 Classes\\1.ExercicioTrianguloComPOO\\1.ExercicioTrianguloComPOO\\Triangulo.cs",
+              "RelativeDocumentMoniker": "1.ExercicioTrianguloComPOO\\Triangulo.cs",
+              "ToolTip": "C:\\Projetos\\CSharpPOOCompleto\\Modulo-1 Classes\\1.ExercicioTrianguloComPOO\\1.ExercicioTrianguloComPOO\\Triangulo.cs",
+              "RelativeToolTip": "1.ExercicioTrianguloComPOO\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T01:20:32.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
